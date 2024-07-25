@@ -3,7 +3,7 @@ description: "lego is all you need"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/weather_page_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -16,7 +16,7 @@ dependencies:
   modal_bottom_sheet: #@add
   gap: #@add
   flutter_svg: #@add
-  intl: ^0.19.0
+  intl: #@add
 
 dev_dependencies:
   flutter_test:
